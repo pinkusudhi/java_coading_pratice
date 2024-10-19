@@ -1,0 +1,11 @@
+
+
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "min".(•Ä’™8´ĞŒÄ…2J$39e894fc-ed96-40de-bc2e-6e0782ff7672
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ü´8´ĞŒÄ…2J$d6e9e4f2-0617-4824-aa03-93a38355d9de
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€·‘Ûıÿÿÿÿ8´ĞŒÄ…2J$f3c11610-f14a-4647-b5eb-4671798d2d81
+
+java:S1845"LRename method "gcd" to prevent any misunderstanding/clash with method "Gcd".(ù“ØÙ8ÄĞŒÄ…2J$f7c7f85a-4dae-408f-9492-20cb486724d1
+x
+java:S2209"5Change this instance-reference to a static reference.(ÉÆÑ8ÄĞŒÄ…2J$ba31fe1f-e488-4c78-aa97-17bdad439852
+r	java:S106"+Replace this use of System.out by a logger.(™¨©Ğûÿÿÿÿ8ÄĞŒÄ…2J$50ca1bd7-e3f7-417e-b72e-4a618922e13c
+	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ñ„8ÄĞŒÄ…2J$7ac47342-2a3c-4dde-bb47-dc42c83a56a3

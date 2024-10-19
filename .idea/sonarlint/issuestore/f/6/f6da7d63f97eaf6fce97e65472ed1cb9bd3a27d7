@@ -1,0 +1,10 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÞÒ£øÿÿÿÿ8µÀú÷„2J$60c26d5c-a126-4de7-8b83-9eafbd098ab7
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëƒ¦Üûÿÿÿÿ8µÀú÷„2J$47cd0a9d-e40f-4a2a-9402-5e86857988fe
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€·‘Ûýÿÿÿÿ8¶Àú÷„2J$0bbdc72a-68ea-4ab0-ab0c-61d412870278
+x
+java:S2209"5Change this instance-reference to a static reference.(˜êÞ‘8¹Àú÷„2J$ed356b43-60cc-45de-b717-ff5c764dd2d0
+r	java:S106"+Replace this use of System.out by a logger.(ÖÌœ‰ÿÿÿÿÿ8ÁÀú÷„2J$661a32b0-5f3a-4d8c-90d4-bc92dcc6ddb0
+x
+java:S2209"5Change this instance-reference to a static reference.(î½£Ÿ8ÁÀú÷„2J$f8382cf4-58ac-4120-bcff-ab9c0248d8fb
+r	java:S106"+Replace this use of System.out by a logger.(‘Ú­ßüÿÿÿÿ8ÁÀú÷„2J$afb6543a-f8ce-414c-a790-82b35e7c73fa
