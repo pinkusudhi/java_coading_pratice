@@ -23,12 +23,12 @@ public class Factorial {
             // when  i is a factor same case N/i is also a factorthat case you need to handle repeating things
             if(N%i==0)
             {
-                if(i==N/i)
+                if (N/i!=i)
                 {
-                    fac=fac*i;
+                    fac=(fac*i*(N/i));
                 }
                 else {
-                    fac=(fac*i*(N/i));
+                    fac=fac*i;
                 }
             }
         }
